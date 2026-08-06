@@ -32,3 +32,14 @@ Article source : https://www.toutsurmesfinances.com/actualites/a/rentree-scolair
 
 *Aucun chiffre de cette page n'est une estimation ou une extrapolation : tous proviennent
 directement de la source citée ci-dessus.*
+
+## La série « On a compté »
+
+Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
+
+- [783 €/an pour un chien, 571 €/an pour un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat)
+- [19 293 € : le budget moyen d'un mariage en France](https://github.com/VincentChabran/combien-coute-un-mariage)
+- [1 239,56 € : le coût de revient d'un déménagement de 27 m³](https://github.com/VincentChabran/combien-coute-un-demenagement)
+- [1 748 € : le budget des vacances d'été 2026](https://github.com/VincentChabran/combien-coutent-des-vacances-ete)
+- [491 € : le budget de Noël 2025](https://github.com/VincentChabran/combien-coute-noel)
+
