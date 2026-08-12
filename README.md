@@ -22,7 +22,36 @@ Part des familles déclarant devoir réduire ce poste de dépense :
 - Fournitures scolaires : **35 %**
 - Articles de sport : **33 %**
 
-## Source
+## Ce que l'État verse en face : l'Allocation de Rentrée Scolaire (ARS) 2026
+
+Le chiffre ci-dessus (488 €) est un budget **prévisionnel déclaré par les familles**, mesuré par un
+baromètre commercial (Cofidis/CSA, voir sources). Voici un chiffre de nature différente : l'ARS est
+une aide **officielle et fixe**, versée par la CAF/MSA en août 2026, revalorisée le 1ᵉʳ avril 2026 :
+
+| Âge de l'enfant | ARS 2026 |
+|---|---|
+| 6 à 10 ans | 426,87 € |
+| 11 à 14 ans | 450,41 € |
+| 15 à 18 ans | 466,02 € |
+
+**Sous condition de ressources** : revenus nets 2024 ne dépassant pas 28 956 € (1 enfant), 35 638 €
+(2 enfants), 42 320 € (3 enfants), 49 002 € (4 enfants) — au-delà, une allocation différentielle
+réduite peut encore s'appliquer. Une partie des familles du baromètre Cofidis/CSA ne perçoit donc
+pas l'ARS du tout.
+
+**Reste à charge indicatif, pour une famille éligible avec un seul enfant scolarisé** dans la
+tranche d'âge concernée (le calcul n'est pas directement transposable à une famille avec plusieurs
+enfants, dont le budget total et l'ARS totale seraient l'un et l'autre plus élevés) :
+
+| Âge de l'enfant | Budget moyen prévu | ARS perçue | Reste à charge |
+|---|---|---|---|
+| 6 à 10 ans | 488 € | 426,87 € | **61,13 €** |
+| 11 à 14 ans | 488 € | 450,41 € | **37,59 €** |
+| 15 à 18 ans | 488 € | 466,02 € | **21,98 €** |
+
+Source : [service-public.gouv.fr — Allocation de rentrée scolaire 2026 (article A16342)](https://www.service-public.gouv.fr/particuliers/actualites/A16342), consulté le 12 août 2026.
+
+## Source (budget prévisionnel)
 
 Baromètre **Cofidis / CSA Research**, enquête en ligne réalisée du 29 mai au 8 juin 2026 auprès de
 357 parents d'enfants scolarisés (sur 1 009 Français de 18 ans et plus interrogés), publié le
@@ -31,7 +60,7 @@ Baromètre **Cofidis / CSA Research**, enquête en ligne réalisée du 29 mai au
 Article source : https://www.toutsurmesfinances.com/actualites/a/rentree-scolaire-2026-le-budget-des-familles-grimpe-a-488-euros
 
 *Aucun chiffre de cette page n'est une estimation ou une extrapolation : tous proviennent
-directement de la source citée ci-dessus.*
+directement des sources citées ci-dessus.*
 
 ## La série « On a compté »
 
