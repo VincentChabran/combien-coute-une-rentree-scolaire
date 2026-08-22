@@ -1,5 +1,7 @@
 # Combien coûte une rentrée scolaire en France en 2026 ?
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-une-rentree-scolaire.pages)
+
 **488 €** : c'est le budget moyen que les familles françaises prévoient de consacrer à la rentrée
 scolaire 2026 (fournitures, vêtements, sport, activités, cantine et garderie confondus) — soit
 **+79 €** en un an (409 € en 2025).
